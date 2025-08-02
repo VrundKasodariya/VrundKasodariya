@@ -2,6 +2,8 @@
 
 I'm a full-stack developer focused on building performant and scalable applications using Node.js, MongoDB, and modern frontend frameworks. I'm passionate about learning new technologies and solving real-world problems.
 
+---
+
 ## 🌐 Connect with Me
 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vrundkasodariya@gmail.com)  
@@ -36,18 +38,19 @@ I'm a full-stack developer focused on building performant and scalable applicati
 ## 📚 Currently Learning
 
 - PostgreSQL with advanced query optimization  
-- React.js and building UI components with Tailwind CSS  
+- React.js and component-based UI design with Tailwind CSS  
 - Software design patterns and clean architecture in Java
 
 ---
 
 ## 🚀 Projects
 
-- **[🖼 Cloud Image Uploader](https://github.com/VrundKasodariya/CloudImageUploader)**  
-  Upload, preview, and manage images with Cloudinary and MongoDB. Includes guest limits and batch uploads.
+### 🖼 [Cloud Image Uploader](https://github.com/VrundKasodariya/CloudImageUploader)
+Upload, preview, and manage images using Cloudinary and MongoDB.  
+Features batch uploads, guest-based limits, and automatic file cleanup.
 
-- **[🎵 Simon Game](https://vrundkasodariya.github.io/Simon_Game_Final/)**  
-  A pattern memory game styled with CSS and enhanced with interactive JavaScript.
+### 🎵 [Simon Game](https://vrundkasodariya.github.io/Simon_Game_Final/)
+A fun memory-based pattern game built with JavaScript and styled using CSS.
 
 ---
 
@@ -73,4 +76,7 @@ I'm a full-stack developer focused on building performant and scalable applicati
 
 ## 💧 Fun Fact
 
-I'm a swimmer 🏊 — I find peace in water and focus in code.
+I'm a swimmer 🏊 — I find peace in water and focus in code.  
+
+
+---
