@@ -80,9 +80,7 @@ I'm a swimmer 🏊 — I find peace in water and focus in code.
 
 
 ---
-<p align="center">
-  <img src="https://raw.githubusercontent.com/VrundKasodariya/githubSnake/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
 
-
+  ![Snake animation](https://vrundkasodariya.github.io/githubSnake/github-contribution-grid-snake.gif)
+  
 ---
