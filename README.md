@@ -45,7 +45,7 @@ I'm a full-stack developer focused on building performant and scalable applicati
 
 ## 🚀 Projects
 
-### 🖼 [Cloud Image Uploader](https://github.com/VrundKasodariya/CloudImageUploader)
+### 🖼 [Cloud Image Uploader](https://cloudinary-uploader-v5zg.onrender.com/)
 Upload, preview, and manage images using Cloudinary and MongoDB.  
 Features batch uploads, guest-based limits, and automatic file cleanup.
 
