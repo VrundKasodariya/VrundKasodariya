@@ -81,6 +81,7 @@ I'm a swimmer 🏊 — I find peace in water and focus in code.
 
 ---
 
-  ![Snake animation](https://vrundkasodariya.github.io/githubSnake/github-contribution-grid-snake.gif)
+ 
+[![Vrund's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VrundKasodariya&theme=github-compact)](https://github.com/VrundKasodariya/github-readme-activity-graph)
   
 ---
