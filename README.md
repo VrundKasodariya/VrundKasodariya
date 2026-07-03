@@ -15,7 +15,7 @@ I'm a full-stack developer focused on building performant and scalable applicati
 ## 🧠 Coding Profiles
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Vrund_Kasodariya?theme=dark&font=Roboto&ext=heatmap)](https://leetcode.com/Vrund_Kasodariya)  
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/vrund3395)  
+[![CodeChef Profile](https://cb-badges.vercel.app/codechef/vrund3395)](https://www.codechef.com/users/vrund3395) 
 [![Codeforces Profile](https://cf.leed.at?id=vrund)](https://codeforces.com/profile/vrund)
 
 ---
