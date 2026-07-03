@@ -7,7 +7,7 @@ I'm a full-stack developer focused on building performant and scalable applicati
 ## 🌐 Connect with Me
 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vrundkasodariya@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/vrund-kasodariya-89235425b)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/vrund-kasodariya)  
 [![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/VrundKasodariya)
 
 ---
@@ -15,8 +15,8 @@ I'm a full-stack developer focused on building performant and scalable applicati
 ## 🧠 Coding Profiles
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Vrund_Kasodariya?theme=dark&font=Roboto&ext=heatmap)](https://leetcode.com/Vrund_Kasodariya)  
-[![CodeChef](https://img.shields.io/badge/CodeChef-1★%201174-8C8C8C?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/vrund3395)
 [![Codeforces Profile](https://cf.leed.at?id=vrund)](https://codeforces.com/profile/vrund)
+[![CodeChef](https://img.shields.io/badge/CodeChef-1★%201174-8C8C8C?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/vrund3395)
 
 ---
 
